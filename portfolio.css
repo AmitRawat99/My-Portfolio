@@ -445,7 +445,7 @@ section {
 }
 .projecct {
   background-color: white;
-  width: 300px;
+  width: 90%;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -460,6 +460,7 @@ section {
 }
 .project-section img {
   width: 280px;
+  object-fit: cover;
   height: 45vh;
   box-shadow: 2px 4px 6px gray;
   border-radius: 10px;
